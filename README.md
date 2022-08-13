@@ -20,29 +20,7 @@ year 2021. (talk more about the dataset, what data is missing etc.)
 
 Below shows a sample from the dataset. Columns explanations can also be found in the link above.
 
-<style>
-	.sample {
-		width:100%;
-		height:100%;
-        border-collapse: collapse;
-	}
-	.sample th {
-		border:1px solid #C0C0C0;
-		padding:5px;
-		background:#F0F0F0;
-	}
-	.sample td {
-		border:1px solid #C0C0C0;
-		text-align:left;
-        padding-bottom: 1px;
-        height: 10px;
-        width: 10px;
-	}
-    .sample tr {
-        overflow: hidden;
-        white-space: nowrap;
-    }
-</style>
+
 <table class="sample">
 	<thead>
 	<tr>
